@@ -1,5 +1,6 @@
 
 # Pipeline Watch
+<p align="center">
 ### A full-stack CI/CD pipeline monitoring dashboard.
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,7 +13,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 A dashboard for tracking the status of CI/CD pipelines across projects built with a FastAPI backend and a React/TypeScript frontend, with JWT-based auth and per-user integrations for GitHub and Discord notifications.
-
+</p>
 ### 🚧 Status: In Progress
 This project is actively being built. Auth and the dashboard UI are functional; live pipeline data and notifications are still in development.
 
