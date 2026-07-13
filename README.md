@@ -1,4 +1,3 @@
-<div align="center">
 
 # Pipeline Watch
 ### A full-stack CI/CD pipeline monitoring dashboard.
