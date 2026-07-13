@@ -1,7 +1,7 @@
 
 # Pipeline Watch
 <p align="center">
-### A full-stack CI/CD pipeline monitoring dashboard.
+A full-stack CI/CD pipeline monitoring dashboard.
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,7 +14,8 @@
 
 A dashboard for tracking the status of CI/CD pipelines across projects built with a FastAPI backend and a React/TypeScript frontend, with JWT-based auth and per-user integrations for GitHub and Discord notifications.
 </p>
-### 🚧 Status: In Progress
+
+🚧 Status: In Progress
 This project is actively being built. Auth and the dashboard UI are functional; live pipeline data and notifications are still in development.
 
 **Done:**
@@ -29,7 +30,6 @@ This project is actively being built. Auth and the dashboard UI are functional; 
 - Dockerized backend + database setup
 - End-to-end tests (Selenium)
 
-</div>
 
 ## 🌐 Overview
 Pipeline Watch lets a developer log in and see, at a glance, which of their project pipelines are passing, failing, or currently running branch, workflow file, last run time, and duration. It's built as a full-stack app: a FastAPI + SQLAlchemy backend for auth and settings, and a React dashboard for the actual pipeline view.
